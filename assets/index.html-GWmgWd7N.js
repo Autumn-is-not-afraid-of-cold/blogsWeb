@@ -1,0 +1,4 @@
+const data = JSON.parse(`{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{"home":true,"modules":["BannerBrand","Blog","MdContent","Footer"],"bannerBrand":{"bgImage":"/bg.svg","title":"Qiu's blog","description":"一个流浪的前端开发-秋秋不怕冷的博客。","tagline":"为扩展自己而建，为分享知识而生。","buttons":[{"text":"按钮1","link":"/docs/guide/introduce"},{"text":"按钮2","link":"/docs/style-default-api/introduce","type":"plain"}],"socialLinks":[{"icon":"LogoGithub","link":"https://github.com/Autumn-is-not-afraid-of-cold/blogsWeb/tree/master"}]},"blog":{"socialLinks":[{"icon":"LogoGithub","link":"https://github.com/Autumn-is-not-afraid-of-cold/blogsWeb/tree/master"}]},"isShowTitleInHome":true,"actionText":"About","actionLink":"/views/other/about"},"headers":[],"git":{},"filePathRelative":"README.md"}`);
+export {
+  data
+};
